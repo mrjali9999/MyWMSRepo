@@ -1,1 +1,1 @@
-command two testing
+command two testing adding_text
